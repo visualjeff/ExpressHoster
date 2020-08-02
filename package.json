@@ -1,0 +1,30 @@
+{
+  "name": "expressHoster",
+  "version": "1.0.0",
+  "description": "For hosting SPA's",
+  "main": "index.js",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=12.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visualjeff/expressHoster.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "static",
+    "SPA",
+    "react"
+  ],
+  "author": "visualjeff",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

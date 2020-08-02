@@ -1,5 +1,7 @@
 # Express Hoster
 
+![Node.js CI](https://github.com/visualjeff/ExpressHoster/workflows/Node.js%20CI/badge.svg)
+
 ## Use this Express application to host your Parcel/React SPA
 
 ### Installation and running
